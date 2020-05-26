@@ -1,2 +1,2 @@
 # docker
-lnmp
+wordpress in lnmp
